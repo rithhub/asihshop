@@ -21,4 +21,4 @@ WA: 081 351 707 690<br>
 
 ### Download
 
-Lihat ukuran besar [View](/assets/archive/jeanswest-big.png)
+Lihat ukuran besar [View](/asihshop/assets/archive/jeanswest-big.png)

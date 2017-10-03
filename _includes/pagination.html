@@ -5,7 +5,7 @@
     {% if paginator.previous_page == 1 %}
       <a href="/">Prev</a>
     {% else %}
-      <a href="/page{{ paginator.previous_page }}">Prev</a>
+      <a href="/asihshop/page{{ paginator.previous_page }}">Prev</a>
     {% endif %}
 
   {% else %}
@@ -23,12 +23,12 @@
     {% if count == paginator.page %}
       <span class="active">{{ count }}</span>
     {% else %}
-      <a href="/page{{ count }}">{{ count }}</a>
+      <a href="/asihshop/page{{ count }}">{{ count }}</a>
     {% endif %}
   {% endfor %}
 
   {% if paginator.next_page %}
-    <a href="/page{{ paginator.next_page }}">Next</a>
+    <a href="/asihshop/page{{ paginator.next_page }}">Next</a>
   {% else %}
     <span class="disabled">Next</span>
   {% endif %}

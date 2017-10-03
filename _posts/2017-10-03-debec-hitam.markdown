@@ -20,5 +20,5 @@ WA: 081 351 707 690<br>
 
 ### Download
 
-Lihat ukuran besar depan [View](/assets/archive/debec-black.png)<br>
-Lihat ukuran besar belakang [View](/assets/archive/debec-black-back.png)<br>
+Lihat ukuran besar depan [View](/asihshop/assets/archive/debec-black.png)<br>
+Lihat ukuran besar belakang [View](/asihshop/assets/archive/debec-black-back.png)<br>
